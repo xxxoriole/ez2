@@ -4,6 +4,7 @@ For information on how to set up a pipeline for this repository, see [Create you
 For more information on building JavaScript or NodeJS applications, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 # Contributing
+[Картинки.docx](https://github.com/xxxoriole/ez2/files/10060037/default.docx)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
