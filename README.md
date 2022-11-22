@@ -1,3 +1,4 @@
+![1655315135_36-gas-kvas-com-p-shchenok-foto-zhivotnogo-43](https://user-images.githubusercontent.com/83474111/203308567-e4bc18ba-de1c-4efd-a1e5-c859fe11bdca.jpg)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
